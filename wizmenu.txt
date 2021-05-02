@@ -1,5 +1,5 @@
 name="PVR Test"
-version="1.1"
+version="1.2"
 url="https://archive.org/download/pvr2_20210502/pvr2.zip"
 minor="http://"
 gui="http://"
