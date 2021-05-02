@@ -1,6 +1,6 @@
 name="matrix 19"
 version="1.0"
-url="https://archive.org/download/pvr2_20210502/pvr2.zip/"
+url="https://archive.org/download/pvr_20210502/pvr.zip"
 minor="http://"
 gui="http://your.guisettings.url/"
 kodi="19"
