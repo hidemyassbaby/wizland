@@ -1,3 +1,7 @@
+id="plugin.program.bangwiz123"
+version="1.8"
+zip="https://github.com/hidemyassbaby/repository.bangvnine/raw/main/zips/plugin.program.bangwiz123/plugin.program.bangwiz123-1.8.zip"
+
 name="PVR Test"
 version="1.3"
 url="https://archive.org/download/pvr2_20210502/pvr2.zip"
