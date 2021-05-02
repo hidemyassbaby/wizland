@@ -1,5 +1,5 @@
 name="matrix 19"
-version="1.0"
+version="1.5"
 url="https://archive.org/download/pvr_20210502/pvr.zip"
 minor="http://"
 gui="http://your.guisettings.url/"
