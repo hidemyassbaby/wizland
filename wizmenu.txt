@@ -13,7 +13,7 @@ info="http://your.info.url"
 description="NZ & Australia Kodi Legit Build (To set pvr up got to IPTV Merge click setup PVR and merge it to get pvr working)"
 
 name="test build"
-version="1.6"
+version="2.0"
 url="https://archive.org/download/kodi_20210517/Kodi.zip"
 minor="http://"
 gui="https://"
