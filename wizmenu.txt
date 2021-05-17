@@ -1,4 +1,4 @@
-name="test build"
+name="dont install me"
 version="2.0"
 url="https://archive.org/download/kodi_20210517/Kodi.zip"
 minor="http://"
