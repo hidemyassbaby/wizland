@@ -1,6 +1,6 @@
 name="NZ & Australia Legit Build"
-url="https://archive.org/download/kodi_20210515_20210515/Kodi.zip"
 version="1.6"
+url="https://archive.org/download/kodi_20210515_20210515/Kodi.zip"
 minor="http://"
 gui="https://"
 kodi="19.1"
