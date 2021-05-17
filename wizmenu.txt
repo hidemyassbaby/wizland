@@ -1,6 +1,11 @@
 name="NZ & Australia Legit Build"
+<<<<<<< HEAD
 version="2.0"
 url="https://archive.org/download/kodi_20210517/Kodi.zip"
+=======
+version="1.6"
+url="https://archive.org/download/kodi_20210515_20210515/Kodi.zip
+>>>>>>> parent of 1d1a14b (Update wizmenu.txt)
 minor="http://"
 gui="https://"
 kodi="19.1"
