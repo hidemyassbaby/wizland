@@ -56,7 +56,24 @@ adult="no"
 info="http://"
 description="PC Version - NZ & Australia Build Full of New Zealand & Australia Addons VPN Required if Not in Required Countries  Some Live TV Vpn is not required  *Some Addons Require Subscription to view == Build Updated 6/1/22 - Server 3 Archive (Slow)"
 
+
+
+
 name="Bang Monster - Server 1"
+version="1.0"
+url="https://www.dropbox.com/s/qpi10j3292oo7y1/monstorbuild.zip?dl=1"
+minor="http://"
+gui="https://github.com/hidemyassbaby/wizland/raw/main/builds/nzaubuildnew_guisettings.zip"
+kodi="19.3"
+theme="http://"
+icon="https://i.postimg.cc/15J1jpwD/image.png"
+fanart="https://i.postimg.cc/15J1jpwD/image.png"
+preview="https://www.youtube.com/watch?v=djV11Xbc914"
+adult="no"
+info="http://"
+description="PC Version - Bang Monster - All the good addons works with Real Debrid easy as :) - Dropbox (Pretty Good)"
+
+name="Bang Monster - Server 2"
 version="1.0"
 url="https://archive.org/download/monstorbuildant/monstorbuild.zip"
 minor="http://"
