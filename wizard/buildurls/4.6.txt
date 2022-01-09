@@ -59,7 +59,7 @@ description="PC Version - NZ & Australia Build Full of New Zealand & Australia A
 
 
 
-name="Bang Monster - Server 1"
+name="Bang Monster Android - Server 1"
 version="1.0"
 url="https://www.dropbox.com/s/qpi10j3292oo7y1/monstorbuild.zip?dl=1"
 minor="http://"
@@ -73,7 +73,7 @@ adult="no"
 info="http://"
 description="PC Version - Bang Monster - All the good addons works with Real Debrid easy as :) - Dropbox (Pretty Good)"
 
-name="Bang Monster - Server 2"
+name="Bang Monster Android - Server 2"
 version="1.0"
 url="https://archive.org/download/monstorbuildant/monstorbuild.zip"
 minor="http://"
@@ -145,7 +145,7 @@ adult="no"
 info="http://"
 description="Android Version - NZ & Australia Build Full of New Zealand & Australia Addons VPN Required if Not in Required Countries  Some Live TV Vpn is not required  *Some Addons Require Subscription to view == Build Updated 7/1/22 - Server 3 Archive (Slow)"
 
-name="Bang Monster - Server 1"
+name="Bang Monster Android - Server 1"
 version="1.0"
 url="https://www.dropbox.com/s/gyc5ff1asitom9t/monstorbuildant.zip?dl=1"
 minor="http://"
@@ -159,7 +159,7 @@ adult="no"
 info="http://"
 description="Android Version - Bang Monster - All the good addons works with Real Debrid too easy as :) - Server 1 Dropbox (pretty good)"
 
-name="Bang Monster - Server 2"
+name="Bang Monster Android - Server 2"
 version="1.0"
 url="https://archive.org/download/monstorbuildant/monstorbuildant.zip"
 minor="http://"
