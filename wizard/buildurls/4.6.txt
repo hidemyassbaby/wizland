@@ -147,7 +147,7 @@ description="Android Version - NZ & Australia Build Full of New Zealand & Austra
 
 name="Bang Monster Android - Server 1"
 version="1.2"
-url="https://www.dropbox.com/s/2n2jab47fo9kcss/monant.zip?dl=0"
+url="https://www.dropbox.com/s/2n2jab47fo9kcss/monant.zip?dl=1"
 minor="http://"
 gui=https://www.dropbox.com/s/zecw5lwwaf958xe/monant_guisettings.zip?dl=1"
 kodi="19.3"
