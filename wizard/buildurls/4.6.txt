@@ -101,7 +101,7 @@ fanart="https://i.postimg.cc/Cxk10hGS/image.png"
 preview="https://"
 adult="no"
 info="http://"
-description="Duncan's Personal Build ( with a few addons) updated 7/1/23 (archive)"
+description="Duncan's Personal Build ( with a few addons) updated 7/1/23 (archive Server)"
 
 
 
