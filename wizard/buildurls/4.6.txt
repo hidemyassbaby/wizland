@@ -91,17 +91,17 @@ description="Lobby Build done on chromecast archive"
 
 name="Luckylast Build - Server 1"
 version="1.1"
-url="https://archive.org/download/kohi_20230107/kohi.zip"
+url="https://doc-0s-78-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/v00pirp2ns88926drrr4bf0k4p70uimr/1682720175000/02759061428871374706/*/1C7r13SimeB4VBA55PrYVAkdH9uCBo94g?e=download&uuid=85da8501-29c6-4e64-9414-51296961b45c"
 minor="http://"
-gui="https://archive.org/download/kohi_20230107/kohi_guisettings.zip"
-kodi="19.5"
+gui="https://"
+kodi="20.1"
 theme="http://"
 icon="https://i.postimg.cc/Cxk10hGS/image.pngg"
 fanart="https://i.postimg.cc/Cxk10hGS/image.png"
 preview="https://"
 adult="no"
 info="http://"
-description="Duncan's Personal Build ( with a few addons) updated 7/1/23 (archive Server)"
+description="Duncan's Personal Build ( with a few addons) updated 29/4/23 (archive Server)"
 
 
 
