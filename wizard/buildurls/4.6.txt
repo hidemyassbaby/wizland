@@ -91,7 +91,7 @@ description="Lobby Build done on chromecast archive"
 
 name="Luckylast Build - Server 1"
 version="1.1"
-url="https://cdn-151.anonfiles.com/0188d4o2z3/5b14b1e0-1682721127/rg45.zip"
+url="https://cdn-147.anonfiles.com/Y5h7e2o2z8/0c107630-1682726830/duncanbuild.zip"
 minor="http://"
 gui="https://"
 kodi="20.1"
@@ -101,7 +101,7 @@ fanart="https://i.postimg.cc/Cxk10hGS/image.png"
 preview="https://"
 adult="no"
 info="http://"
-description="Duncan's Personal Build updated 29/4/23 (anon Server)"
+description="Duncan's Personal Build updated 29/4/23 (ANON Server)"
 
 
 
