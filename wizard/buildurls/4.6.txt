@@ -92,10 +92,10 @@ description="Lobby Build done on chromecast archive"
 
 
 name="Luckylast Build - Server 1"
-version="1.2"
-url="https://www.dropbox.com/s/0jzol3ws4ah941u/dunnewonw21.zip?dl=1"
+version="1.3"
+url="https://www.dropbox.com/s/26ud1s7cevxj51j/fhghdun.zip?dl=1"
 minor="http://"
-gui="https://www.dropbox.com/s/wockiji2nl85oka/dunnewonw21_guisettings.zip?dl=1"
+gui="https://www.dropbox.com/s/eisevhaldzz0wq2/fhghdun_guisettings.zip?dl=1"
 kodi="20.1"
 theme="http://"
 icon="https://i.postimg.cc/Cxk10hGS/image.pngg"
@@ -105,19 +105,6 @@ adult="no"
 info="http://"
 description="Duncan's Personal Build updated 29/4/23 (Dropbox)"
 
-name="Luckylast Build - Server 2"
-version="1.2"
-url="https://cdn.filesend.jp/private/2v0NbfvVUDNBoMF9KO3WWZgKZj51gT1rpOr2exdGTP0ATYs6bjOguQTjCmfcs5A7/dunnewonw21.zip"
-minor="http://"
-gui="https://cdn.filesend.jp/private/8dNcQw_YvK6wdzuzJVm3J1dVjUnKwadaLVXnbfI5NyuruSnD8nxYwRU0cDUzeD1P/dunnewonw21_guisettings.zip"
-kodi="20.1"
-theme="http://"
-icon="https://i.postimg.cc/Cxk10hGS/image.pngg"
-fanart="https://i.postimg.cc/Cxk10hGS/image.png"
-preview="https://"
-adult="no"
-info="http://"
-description="Duncan's Personal Build updated 29/4/23 (File Send)"
 
 
 
