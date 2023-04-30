@@ -92,10 +92,10 @@ description="Lobby Build done on chromecast archive"
 
 
 name="Luckylast Build - Server 1"
-version="1.3"
-url="https://www.dropbox.com/s/26ud1s7cevxj51j/fhghdun.zip?dl=1"
+version="1.5"
+url="https://www.dropbox.com/s/xi8z91quwix3gi4/dun4321.zip?dl=1"
 minor="http://"
-gui="https://www.dropbox.com/s/eisevhaldzz0wq2/fhghdun_guisettings.zip?dl=1"
+gui="https://www.dropbox.com/s/0n8leo26e8kno9z/dun4321_guisettings.zip?dl=1"
 kodi="20.1"
 theme="http://"
 icon="https://i.postimg.cc/Cxk10hGS/image.pngg"
@@ -103,7 +103,7 @@ fanart="https://i.postimg.cc/Cxk10hGS/image.png"
 preview="https://"
 adult="no"
 info="http://"
-description="Duncan's Personal Build updated 29/4/23 (Dropbox)"
+description="Duncan's Personal Build For Google Chromecast - updated 30/4/23 (Dropbox)"
 
 
 
