@@ -92,10 +92,10 @@ description="Lobby Build done on chromecast archive"
 
 
 name="Luckylast Build - Server 1"
-version="1.5"
-url="https://www.dropbox.com/s/xi8z91quwix3gi4/dun4321.zip?dl=1"
+version="1.6"
+url="https://www.dropbox.com/s/7ah2o0cjdoogmbe/dunnyduncan.zip?dl=1"
 minor="http://"
-gui="https://www.dropbox.com/s/0n8leo26e8kno9z/dun4321_guisettings.zip?dl=1"
+gui="https://www.dropbox.com/s/4rx86j8bkx2p52t/dunnyduncan_guisettings.zip?dl=1"
 kodi="20.1"
 theme="http://"
 icon="https://i.postimg.cc/Cxk10hGS/image.pngg"
