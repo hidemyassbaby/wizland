@@ -13,18 +13,18 @@ info="http://"
 description="Place Holder -DONT DOWNLOAD"
 
 name="NZ & Australia Legit Build - Server 1"
-version="3.0"
-url="https://archive.org/download/d_20230107/Kodi.zip"
-minor="http://"
+version="4.0"
+url="https://www.dropbox.com/scl/fi/ayk8g5ua7izca7nyddk0e/nzau.zip?rlkey=m72x478a555bblo7hi3v6ed2a&dl=1"
+minor="https://www.dropbox.com/scl/fi/u7ikq2pkmnm6ok1hn28ht/nzau_guisettings.zip?rlkey=hx09vxavcgir38vn70icfxgst&dl=1"
 gui=""
-kodi="19.5"
+kodi="20.2"
 theme="http://"
 icon="https://i.postimg.cc/15J1jpwD/image.png"
 fanart="https://i.postimg.cc/15J1jpwD/image.png"
 preview="https://www.youtube.com/watch?v=djV11Xbc914"
 adult="no"
 info="http://"
-description="PC Version - NZ & Australia Build Full of New Zealand & Australia Addons VPN Required if Not in Required Countries  Some Live TV Vpn is not required  *Some Addons Require Subscription to view == Build Updated 7/1/23 - Server 1 Github (Slow)"
+description="PC Version - NZ & Australia Build Full of New Zealand & Australia Addons VPN Required if Not in Required Countries  Some Live TV Vpn is not required  *Some Addons Require Subscription to view == Build Updated 11/1/24 - Server 1 Dropbox Fast"
 
 
 
