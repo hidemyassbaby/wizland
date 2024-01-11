@@ -108,6 +108,22 @@ info="http://"
 description="Place Holder -DONT DOWNLOAD"
 
 
+
+name="NZ Mobile Touch"
+version="1.0"
+url="https://www.dropbox.com/scl/fi/0c6cksh6p4ujewuzqqnxq/nztouch.zip?rlkey=odewww9ay3n8u9rvg1do4r59o&dl=1"
+minor="http://"
+gui="https://www.dropbox.com/scl/fi/3hqdd4a45fn02pv22gzou/nztouch_guisettings.zip?rlkey=zdpyi89xg1stw13ee6p8rpjen&dl=1"
+kodi="20.3"
+theme="http://"
+icon="https://"
+fanart="https://"
+preview="https://www.youtube.com/watch?v=djV11Xbc914"
+adult="no"
+info="http://"
+description="New Zeland - Touch Friendly Build PVR set to NZ - Updated 11/1/23"
+
+
 name="======"
 version="1.0"
 url="https:/"
