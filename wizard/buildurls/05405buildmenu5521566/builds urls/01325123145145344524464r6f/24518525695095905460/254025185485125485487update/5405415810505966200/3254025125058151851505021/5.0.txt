@@ -78,7 +78,7 @@ description="Lobby Build done on chromecast archive"
 
 
 name="Luckylast Build - Server 1"
-version="2.1"
+version="2.2"
 url="https://www.dropbox.com/scl/fi/vs4ejbu8c81fs8mx6uyxt/duncan-build-luckylast.zip?rlkey=i4bo8xxneip2zhmp61df5it46&dl=1"
 minor="http://"
 gui="https://www.dropbox.com/scl/fi/vbjbsh805obw0x6s7iycw/duncan-2Bbuild-2Bluckylast_guisettings.zip?rlkey=t6v83miibltf512s1v2oxqxx7&dl=1"
