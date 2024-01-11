@@ -110,8 +110,8 @@ description="Place Holder -DONT DOWNLOAD"
 
 
 name="NZ Mobile Touch"
-version="1.0"
-url="https://www.dropbox.com/scl/fi/0c6cksh6p4ujewuzqqnxq/nztouch.zip?rlkey=odewww9ay3n8u9rvg1do4r59o&dl=1"
+version="1.1"
+url="https://www.dropbox.com/scl/fi/7paipuvtiryj9wm7oe6mb/nztouch.zip?rlkey=pbwhkk8swqqj58qbp518mkoxy&dl=1"
 minor="http://"
 gui="https://www.dropbox.com/scl/fi/3hqdd4a45fn02pv22gzou/nztouch_guisettings.zip?rlkey=zdpyi89xg1stw13ee6p8rpjen&dl=1"
 kodi="20.3"
