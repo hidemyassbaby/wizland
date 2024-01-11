@@ -110,10 +110,10 @@ description="Place Holder -DONT DOWNLOAD"
 
 
 name="NZ Mobile Touch"
-version="1.1"
-url="https://www.dropbox.com/scl/fi/7paipuvtiryj9wm7oe6mb/nztouch.zip?rlkey=pbwhkk8swqqj58qbp518mkoxy&dl=1"
+version="1.2"
+url="https://www.dropbox.com/scl/fi/08gja5rowmmy682f8xfhr/nztouchbuild.zip?rlkey=5f3zu3e0f4r5ix00w91k98i30&dl=1"
 minor="http://"
-gui="https://www.dropbox.com/scl/fi/3hqdd4a45fn02pv22gzou/nztouch_guisettings.zip?rlkey=zdpyi89xg1stw13ee6p8rpjen&dl=1"
+gui="https://www.dropbox.com/scl/fi/e1fjc3reyr6bczh255a8j/nztouchbuild_guisettings.zip?rlkey=tnwquqnh8n7bemfti4hme7j51&dl=1"
 kodi="20.3"
 theme="http://"
 icon="https://"
@@ -121,7 +121,7 @@ fanart="https://"
 preview="https://www.youtube.com/watch?v=djV11Xbc914"
 adult="no"
 info="http://"
-description="New Zeland - Touch Friendly Build PVR set to NZ - Updated 11/1/24"
+description="New Zealand - Touch Friendly Build PVR set to NZ - Updated 11/1/24"
 
 
 name="======"
