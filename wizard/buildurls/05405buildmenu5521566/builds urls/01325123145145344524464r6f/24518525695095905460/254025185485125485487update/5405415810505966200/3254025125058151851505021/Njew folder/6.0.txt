@@ -79,9 +79,9 @@ description="Lobby Build done on chromecast archive"
 
 name="Luckylast Build - Server 1"
 version="2.2"
-url="https://www.dropbox.com/scl/fi/px5l21y5uynszbokercgw/duncan-build-latest.zip?rlkey=7ccfx7ygz3w00bc0082diwqpl&st=0fv60ci1&dl=1"
+url="https://www.dropbox.com/scl/fi/dvv3gs1lc3pnzzaty12pd/duncan-build.zip?rlkey=rsvbb7942w2oorxrxoofyacr7&st=1w85jg6h&dl=1"
 minor="http://"
-gui="https://www.dropbox.com/scl/fi/vcokp7guc6bh4puocqoha/duncan-2Bbuild-2Blatest_guisettings.zip?rlkey=ftzeh0zlmhf1sj6o08dysybww&st=v4z2n27k&dl=1"
+gui="https://www.dropbox.com/scl/fi/ayelg8uf6wghwq6esrjtu/duncan-2Bbuild_guisettings.zip?rlkey=tjons9jsjb0xynvhmlvextkbq&st=10bhp14i&dl=1"
 kodi="21.0"
 theme="http://"
 icon="https://i.postimg.cc/Cxk10hGS/image.png"
@@ -89,7 +89,7 @@ fanart="https://i.postimg.cc/Cxk10hGS/image.png"
 preview="https://"
 adult="no"
 info="http://"
-description="Duncan's Personal Build For Google Chromecast - updated 27/04/24 (Dropbox)"
+description="Duncan's Personal Build For Google Chromecast - updated 27/04/24 (Dropbox)."
 
 
 
