@@ -89,7 +89,21 @@ fanart="https://i.postimg.cc/Cxk10hGS/image.png"
 preview="https://"
 adult="no"
 info="http://"
-description="Duncan's Personal Build For Google Chromecast - updated 27/04/24 (Dropbox)."
+description="Duncan's Personal Build For Google Chromecast - updated 27/04/24 (Dropbox)"
+
+name="Jackaranda Build"
+version="1.0"
+url="https://www.dropbox.com/scl/fi/yvaam9epf2bxnqs2gktum/jack.zip?rlkey=kkh673vu54i7kvqm0kfhykrni&st=ca4ohv18&dl=1"
+minor="http://"
+gui="https://www.dropbox.com/scl/fi/74qijl1xos7wdrykgc40w/jack_guisettings.zip?rlkey=itqdmcnp9yac3jf6gaeyt1v3p&st=0pzwiseg&dl=1"
+kodi="21.0"
+theme="http://"
+icon="https://i.postimg.cc/Cxk10hGS/image.png"
+fanart="https://i.postimg.cc/Cxk10hGS/image.png"
+preview="https://"
+adult="no"
+info="http://"
+description="Thomas's Personal Build For Google Chromecast - updated 27/04/24 (Dropbox)"
 
 
 
