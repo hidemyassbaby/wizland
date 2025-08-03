@@ -75,6 +75,20 @@ adult="no"
 info="http://"
 description="Lobby Build done on chromecast archive"
 
+name="Sheena Build"
+version="1.0"
+url="https://www.dropbox.com/scl/fi/86c3yige8kxuj8cgn2f90/sheena.zip?rlkey=aa002nai32mt1cd539guxa1g7&st=2iya30hr&dl=1"
+minor="http://"
+gui="https://www.dropbox.com/scl/fi/r8s4r66rg8u4fio8w4j6t/sheena_guisettings.zip?rlkey=jnht4ubzoazk5n0fysbh60njw&st=w8dp7l10&dl=1"
+kodi="21.2"
+theme="http://"
+icon="https://i.postimg.cc/Cxk10hGS/image.png"
+fanart="https://i.postimg.cc/Cxk10hGS/image.png"
+preview="https://"
+adult="no"
+info="http://"
+description="Sheena's Personal Build For Google Chromecast - updated 03/08/25 (Dropbox)"
+
 
 
 name="Luckylast Build"
